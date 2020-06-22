@@ -1,4 +1,5 @@
 one line
 second line
+insert b
 third line
 forth line

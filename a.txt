@@ -2,6 +2,4 @@ one line
 second line
 third line
 forth line
-dev branch change
-dev2 branch change
-nanananch change
+dev change
